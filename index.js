@@ -108,7 +108,6 @@
 // if(a>b){
 // b+=a
 // }
-
 // console.log(a , 'a');
 // console.log(b , 'b');
 
@@ -171,4 +170,135 @@
 // console.log(res);
 
 // 14-masala
-jwperjd
+// let a = +prompt('son kiritin');
+// let b = +prompt('son kiritin');
+// let c = +prompt('son kiritin');
+// let kichik = 0;
+// let kotta = 0;
+// if (a<b && a<c) {
+//   kichik = a
+// }else if (a>b && a>c) {
+//     kotta = a;
+// }
+
+// if (b<a && b<c) {
+//     kichik = b
+// }else if (b>a && b>c) {
+//     kotta = b;
+// }
+
+// if (c<a && c<b) {
+//     kichik = c;
+// }else if (c>a && c>b) {
+//     kotta = c;
+// }
+
+// console.log(kichik);
+// console.log(kotta);
+
+// 15-masala
+// let a = +prompt('son kiritin');
+// let b = +prompt('son kiritin');
+// let c = +prompt('son kiritin');
+// if (a+b > a+c && a+b > c+b) {
+//     console.log(a,b);
+// }else if (b+c > a+c && b+c > a+b) {
+//     console.log(b,c);
+// }else{
+// console.log(c,a);
+// }
+
+
+
+
+
+// boolean-1
+// let a = +prompt("a ni kiriting");
+// if(a > 0){
+//     console.log(true);
+// } else{
+//     console.log(false);
+// }
+
+// boolean-2
+// let a = +prompt("a ni kiriting");
+// if(a % 2 == 1){
+//     console.log(true);
+// } else{
+//     console.log(false);
+// }
+
+// boolean-3
+// let a = +prompt("a ni kiriting");
+// if(a % 2 == 0){
+//     console.log(true);
+// } else{
+//     console.log(false);
+// }
+
+// boolean-4
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// if (a > 2 && b <=3) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// } 
+
+// boolean-5
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// if (a >= 0  b < -2) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// } 
+
+// boolean-6
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// let c  = +prompt ('c ni kiriting');
+// if (a < b && b<=c) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }  
+
+// boolean-7
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// let c  = +prompt ('c ni kiriting');
+// if (a <= b && b <= c  a >= c) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+// boolean8
+
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// if (a % 2 == 1 && b % 2 == 1) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// } 
+
+// boolean9
+
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// if (a % 2 == 1  b % 2 == 1) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// } 
+
+// boolean10
+
+// let a = +prompt ("a ni kiriting");
+// let b  = +prompt ('b ni kiriting');
+// if (a % 2 == 1 && b % 2 == 0 a % 2 == 0 && b % 2 == 1) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
